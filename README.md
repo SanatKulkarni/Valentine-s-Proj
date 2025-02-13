@@ -18,6 +18,10 @@ This project is a web application that generates personalized Valentine's Day lo
 
 Watch the demo video to see the project in action!
 
+## QR Code to Try it Yourself!
+
+![frame](https://github.com/user-attachments/assets/abad9565-3351-4c4e-b9bf-b8cce5fc3f39)
+
 ## Technologies Used
 
 *   **Frontend:**
@@ -41,9 +45,7 @@ Watch the demo video to see the project in action!
 
 *   [Sanat Kulkarni]
 
-## QR Code
 
-![frame](https://github.com/user-attachments/assets/abad9565-3351-4c4e-b9bf-b8cce5fc3f39)
 
 
 ## Contributing
