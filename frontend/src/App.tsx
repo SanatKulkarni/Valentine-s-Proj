@@ -8,12 +8,12 @@ import { getFirestore, doc, setDoc, getDoc } from "firebase/firestore";
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBUyrh3LqEF1sWjF9AHrNfGNq0tpA_3lXM",
-  authDomain: "valentine-s-1b9af.firebaseapp.com",
-  projectId: "valentine-s-1b9af",
-  storageBucket: "valentine-s-1b9af.firebasestorage.app",
-  messagingSenderId: "300245360336",
-  appId: "1:300245360336:web:9584eb44dc1672e679c8d5"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
