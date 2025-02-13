@@ -2,7 +2,7 @@ const { GoogleGenerativeAI } = require("@google/generative-ai");
 require("dotenv").config();
 
 // Initialize the Gemini API client
-const genAI = new GoogleGenerativeAI('AIzaSyAzJno6phNweWn4MMU4j6LUgcqDfTW_cDk');
+const genAI = new GoogleGenerativeAI('');
 
 async function generateSubject() {
     const prompt = "Write a single romantic subject line text for a Valentine's Day love letter. Provide only the subject line without any additional text or explanations.";
